@@ -61,11 +61,13 @@ void loop() {
 
 
 ## OUTPUT:
-<img width="1201" height="830" alt="image" src="https://github.com/user-attachments/assets/7b50c38b-e274-4c34-b8b6-2bedcc429ce1" />
-
-<img width="1277" height="840" alt="image" src="https://github.com/user-attachments/assets/0d4366c6-3ca3-4b6d-a5b0-dd1eb6d91bf5" />
 
 <img width="1254" height="810" alt="image" src="https://github.com/user-attachments/assets/4cbed8c3-04cf-4713-9bbb-6d217ca5544c" />
+
+<img width="1089" height="753" alt="image" src="https://github.com/user-attachments/assets/99cfbb98-1fac-4d2f-b188-763d84a315eb" />
+
+
+
 
 ## RESULT:
 
