@@ -39,22 +39,21 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 ```
-#include <LiquidCrystal.h>
-LiquidCrystal lcd(13,12,7,6,5,4);
+int relayPin = 7; 
+
 void setup() {
-  lcd.begin(16,2);
+  pinMode(relayPin, OUTPUT);
 }
 
 void loop() {
-  lcd.clear();
-  lcd.setCursor(0,0);
-  lcd.print("GOUTHAM");
-  lcd.setCursor(0,1);
-  lcd.print("212223110019");
-  delay(500);
-  // put your main code here, to run repeatedly:
-
+  digitalWrite(relayPin, HIGH);  
+  delay(5000);                   
+  
+  digitalWrite(relayPin, LOW);   // Turn OFF relay (lamp OFF)
+  delay(5000);                   // Wait 5 seconds
 }
+
+
 ```
 ## CIRCUIT DIAGRAM:
 <img width="1145" height="823" alt="image" src="https://github.com/user-attachments/assets/258bddd6-7812-4211-abd6-bd42a003b75b" />
