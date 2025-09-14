@@ -57,7 +57,7 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
-<img width="868" height="633" alt="image" src="https://github.com/user-attachments/assets/13299622-c639-4ea0-a17e-e15beb87edca" />
+<img width="1145" height="823" alt="image" src="https://github.com/user-attachments/assets/258bddd6-7812-4211-abd6-bd42a003b75b" />
 
 
 ## OUTPUT:
