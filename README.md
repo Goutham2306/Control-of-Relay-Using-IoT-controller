@@ -1,4 +1,6 @@
-# Control-of-Relay-Using-IoT-controller
+## Name: GOUTHAM.K
+## Reg No: 212223110019
+## Exp-02: Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
